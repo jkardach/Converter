@@ -11,6 +11,7 @@
 		3DFE70E62A72E21700A6AA45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFE70E52A72E21700A6AA45 /* ContentView.swift */; };
 		3DFE70E82A72E21800A6AA45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DFE70E72A72E21800A6AA45 /* Assets.xcassets */; };
 		3DFE70EB2A72E21800A6AA45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DFE70EA2A72E21800A6AA45 /* Preview Assets.xcassets */; };
+		3DFE70F42A72E5A600A6AA45 /* ConverterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFE70F32A72E5A600A6AA45 /* ConverterModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3DFE70E52A72E21700A6AA45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3DFE70E72A72E21800A6AA45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DFE70EA2A72E21800A6AA45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3DFE70F32A72E5A600A6AA45 /* ConverterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				3DFE70E32A72E21700A6AA45 /* ConverterApp.swift */,
+				3DFE70F32A72E5A600A6AA45 /* ConverterModel.swift */,
 				3DFE70E52A72E21700A6AA45 /* ContentView.swift */,
 				3DFE70E72A72E21800A6AA45 /* Assets.xcassets */,
 				3DFE70E92A72E21800A6AA45 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DFE70E62A72E21700A6AA45 /* ContentView.swift in Sources */,
+				3DFE70F42A72E5A600A6AA45 /* ConverterModel.swift in Sources */,
 				3DFE70E42A72E21700A6AA45 /* ConverterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
